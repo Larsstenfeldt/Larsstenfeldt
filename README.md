@@ -1,5 +1,4 @@
-- name = "Lars Stenfeldt Hansen"
-print("Hello, my name is", name)
+
 - 🏆 Hi, I’m @Larsstenfeldt
 - 👀 I’m interested in educational and knowledge powered AI platforms...
 - 🌱 I’m currently learning to design GUI using unique Metahumans in realtime ...
